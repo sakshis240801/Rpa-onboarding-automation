@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Plain Text",
+  "Type": "Element",
+  "Id": "LQjtGTSWe0-SdPAyALmzuw",
+  "Reference": "H4IiXV64fE-_aPasCN0WsQ/LQjtGTSWe0-SdPAyALmzuw",
+  "ParentRef": "H4IiXV64fE-_aPasCN0WsQ/9XLMeQFT3ES4usbWZSAFHQ",
+  "Created": "2026-03-06T08:43:39.8278552Z",
+  "Updated": "2026-03-06T08:43:39.8278552Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

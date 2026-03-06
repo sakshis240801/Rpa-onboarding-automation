@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qQuvEpwo8UyJBTu-NtQ9Ew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="the-qrcode-generator.com" CVScreenId="1bbae1eb-cda2-45de-b028-358ab670098a" CvTextArea="674, 477, 69, 15" CvTextArgument="Plain Text" CvType="Text" DesignTimeRectangle="663, 426, 93, 84" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='widget_input_tab_header' idx='4' parentid='campaign-list' tag='DIV' /&gt;" Guid="bc2d1eff-4e64-4226-97e6-3f14ef0909a2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The QR Code Generator (TQRCG): Create Free QR Codes' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8d02f205df7cc7368b212fdebf8871dd.jpg" xmlns="">0WYAG5YwBLkq5Ebq8gyNHjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

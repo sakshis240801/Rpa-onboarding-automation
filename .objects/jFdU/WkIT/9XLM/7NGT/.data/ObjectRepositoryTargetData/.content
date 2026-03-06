@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1Nwymo_L2kyMUCjs0qcFfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="the-qrcode-generator.com" CVScreenId="8799e5ce-8196-4c02-abed-d32861cd2655" CvElementArea="604, 516, 690, 47" CvType="InputBox" DesignTimeRectangle="606, 517, 688, 46" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='fileName' tag='INPUT' type='text' class='' placeholder='Enter file name' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="9c26f877-3ee3-4a7a-ab75-dd4ea8837167" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The QR Code Generator (TQRCG): Create Free QR Codes' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8799e5ce-8196-4c02-abed-d32861cd2655" CvTextArea="605, 481, 78, 17" CvTextArgument="File name" CvType="Text" DesignTimeRectangle="606, 478, 688, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='downloadModal' tag='P' type='' class='modal_sub_heading' aaname='File name' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='File name' /&gt;" Guid="a351c3b4-dec9-4003-b37a-8f7ff2ce9958" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="db753b7960735e88e5ed3201e38c0d40.jpg" xmlns="">04WntB-dhAUSyTei3G1GsGQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

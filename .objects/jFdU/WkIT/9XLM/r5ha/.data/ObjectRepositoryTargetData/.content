@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5eGm2jR4CkWYM--U82xHyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="the-qrcode-generator.com" CVScreenId="6dc90153-2937-486f-ba4a-7a0b6aaa1a71" CvElementArea="266, 649, 859, 161" CvType="InputBox" DesignTimeRectangle="266, 653, 856, 157" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' class='input textarea' placeholder='Enter text here' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="7aa4922a-f562-4eb4-ad15-60296a767f91" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The QR Code Generator (TQRCG): Create Free QR Codes' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6dc90153-2937-486f-ba4a-7a0b6aaa1a71" CvTextArea="264, 619, 112, 21" CvTextArgument="Add message" CvType="Text" DesignTimeRectangle="266, 616, 856, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Add message ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Add message' /&gt;" Guid="3c5d4a1d-5fb5-445f-8930-9b84dfb4cddf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cecc1250f5384cc6a06748f4c52198a1.jpg" xmlns="">0TUEJJQS3dkawZ3QugnbOdA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
